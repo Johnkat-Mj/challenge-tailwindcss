@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "font-Mountager";
+    src: url('../../assets/font/Mountager-SVG.otf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.font-Mountager {
+    font-family: "font-Mountager";
+}
